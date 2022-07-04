@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="./Resources/Images/Header.png" />
+<img src="./Assets/Header.png" />
 </p>
 
 ## Getting Started
