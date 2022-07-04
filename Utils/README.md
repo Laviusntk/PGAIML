@@ -34,6 +34,13 @@ sh InstallTools.sh
 
 <br>
 
+<p>
+The anaconda environment is saved in a file named: conda_environment.yaml. Import this file to have all the packages needed to run this project.
+</p>
+
+```
+conda_environment.yaml
+```
 
 ## Contributing
 <blockquote>
@@ -45,8 +52,6 @@ Lavius.Motileng@outlook.com or fork the repo!
 </blockquote>
 
 <br>
-
-The anaconda environment is saved in a file named: conda_environment.yaml. Import this file to have all the packages needed to run this project.
 
 ## License
 
