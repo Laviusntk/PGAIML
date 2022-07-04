@@ -46,6 +46,8 @@ Lavius.Motileng@outlook.com or fork the repo!
 
 <br>
 
+The anaconda environment is saved in a file named: conda_environment.yaml. Import this file to have all the packages needed to run this project.
+
 ## License
 
 This project is licensed under the terms of the
