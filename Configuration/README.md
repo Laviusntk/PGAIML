@@ -21,7 +21,7 @@ Install tools
 
 ```bash
 chmod 755 ./InstallTools.sh 
-sh ./InstallTools.sh
+bash ./InstallTools.sh
 ```
 <br>
 
@@ -29,7 +29,7 @@ Setup Anaconda Environment. 💡 Make sure to run the command in this folder.
 
 ```bash
 chmod 755 ./Setup.sh
-sh ./Setup.sh
+bash ./Setup.sh
 ```
 <br>
 
