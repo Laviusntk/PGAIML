@@ -20,6 +20,10 @@
 ### Configuration
 
 #### Tools  Needed
+<br>
+
+To setup the environment and install required tools [See](./src/Configuration).
+
 <blockquote>
 
 | Tool         | Description                                 | Docs                                     |
@@ -32,20 +36,6 @@
 </blockquote>
 
 <br>
-
-```
-# Install Required Tools.
-
-chmod 755 ./Utils/InstallTools.sh
-sh ./Utils/InstallTools.sh
-```
-
-```
-# Setup Anaconda Data Science Environment 
-
-chmod 755 ./Utils/Setup.sh
-sh ./Utils/Setup.sh
-```
 
 
 #### Usage
