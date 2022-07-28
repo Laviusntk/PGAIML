@@ -31,7 +31,7 @@ Install tools
 sh InstallTools.sh
 ```
 
-Setup Anaconda Environment
+Setup Anaconda Environment. 💡 Make sure to run the command in this folder.
 
 ```bash
 sh Setup.sh
