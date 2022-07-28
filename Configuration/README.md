@@ -24,22 +24,17 @@ Tools Added:
 | Anaconda     | Pyhton Data Science Utils                   | [Docs](https://www.anaconda.com)         |
 
 </blockquote>
+<br>
+Install tools
 
-
-```
-# Run script.
-
+```bash
 sh InstallTools.sh
 ```
 
-<br>
+Setup Anaconda Environment
 
-<p>
-The anaconda environment is saved in a file named: conda_environment.yaml. Import this file to have all the packages needed to run this project.
-</p>
-
-```
-conda_environment.yaml
+```bash
+sh Setup.sh
 ```
 
 ## Contributing
