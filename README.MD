@@ -47,7 +47,6 @@ chmod 755 ./Utils/Setup.sh
 sh ./Utils/Setup.sh
 ```
 
-<br>
 
 #### Usage
 
