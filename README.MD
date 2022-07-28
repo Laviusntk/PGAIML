@@ -44,7 +44,6 @@ sh ./Utils/Setup.sh
 
 </blockquote>
 
-<br>
 
 #### Usage
 
