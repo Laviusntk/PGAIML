@@ -20,14 +20,16 @@ Tools Added:
 Install tools
 
 ```bash
-sh InstallTools.sh
+chmod 755 ./InstallTools.sh 
+sh ./InstallTools.sh
 ```
 <br>
 
 Setup Anaconda Environment. 💡 Make sure to run the command in this folder.
 
 ```bash
-sh Setup.sh
+chmod 755 ./Setup.sh
+sh ./Setup.sh
 ```
 <br>
 
