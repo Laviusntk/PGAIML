@@ -15,21 +15,9 @@
 </p>
 </blockquote>
 
-#### Configuration
+<br>
 
-```
-# Install Required Tools.
-
-chmod 755 ./Utils/InstallTools.sh
-sh ./Utils/InstallTools.sh
-```
-
-```
-# Install Python Libraries and Setup Anaconda Environment.
-
-chmod 755 ./Utils/Setup.sh
-sh ./Utils/Setup.sh
-```
+### Configuration
 
 #### Tools  Needed
 <blockquote>
@@ -42,6 +30,20 @@ sh ./Utils/Setup.sh
 | Anaconda     | Pyhton Data Science Utils                   | [Docs](https://www.anaconda.com)         |
 
 </blockquote>
+
+```
+# Install Required Tools.
+
+chmod 755 ./Utils/InstallTools.sh
+sh ./Utils/InstallTools.sh
+```
+
+```
+# Setup Anaconda Data Science Environment 
+
+chmod 755 ./Utils/Setup.sh
+sh ./Utils/Setup.sh
+```
 
 <br>
 
