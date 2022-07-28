@@ -31,10 +31,10 @@ sh ./Utils/InstallTools.sh
 ```
 
 ```
-# Install Python Libraries.
+# Install Python Libraries and Setup Anaconda Environment.
 
-chmod 755 ./Utils/InstallPackages.sh
-sh ./Utils/InstallPackages.sh
+chmod 755 ./Utils/Setup.sh
+sh ./Utils/Setup.sh
 ```
 
 #### Tools  Needed
