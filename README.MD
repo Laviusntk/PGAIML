@@ -11,15 +11,10 @@
 
 <blockquote>
 <p>
-💡 "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+💡 "Give me six hours to chop down a tree and I will spend the first four sharpening the axe". Lets get started by automating the setup configurations and installing required tools. Open your terminal in the root folder of this project and run the Settup.sh file to configure your environment.
 </p>
 </blockquote>
-
-<blockquote>
-<p>
-Lets get started by automating the setup configurations and installing required tools. Open your terminal in the root folder of this project and run the Settup.sh file to configure your environment.
-</p>
-</blockquote>
+<br>
 
 #### Configuration
 
