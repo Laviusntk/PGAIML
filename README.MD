@@ -41,7 +41,7 @@ To setup the environment and install required tools [See](./src/Configuration).
 #### Usage
 
 ```
-# Run the following command and select the project to run.
+# Run the following command to launch.
 
 chmod 755 ./Start.sh
 sh ./Start.sh
