@@ -4,6 +4,3 @@ cd Configurations/Anaconda
 
 chmod 755 ./SetupCondaAIEnvironment.sh
 sh ./SetupCondaAIEnvironment.sh
-
-cd ..
-rm -r Configurations
